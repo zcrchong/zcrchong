@@ -6,7 +6,7 @@ javascript  vuejs react typescript nodejs mysql redis
 About Me
 🌱 I’m currently learning react、Webpack、Vite and so on
 
-📝 I regularly write articles on [博客](https://www.yuque.com/zcr.js)
+📝 I regularly write articles on [ZuoChaoRan's Blog](https://www.yuque.com/zcr.js)
 
 💬 Ask me about JavaScript, Vue, Nodejs
 
