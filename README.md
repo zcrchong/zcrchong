@@ -1,9 +1,11 @@
 Hi ☀️, I'm ChaoRan Zuo
 From Tianjin University of science and technology
+
 Languages and Tools:
 javascript vuejs react typescript nodejs mysql redis 
 
 About Me
+
 🌱 I'm Recently addicted to solving algorithm problems
 📝 I regularly write articles on [ZuoChaoRan's Blog](https://www.yuque.com/zcr.js)
 
