@@ -7,7 +7,7 @@ javascript vuejs react typescript nodejs mysql redis
 About Me
 
 🌱 I'm Recently addicted to solving algorithm problems
-📝 I regularly write articles on [ZuoChaoRan's Blog](https://www.yuque.com/zcr.js](https://xunlianying.feishu.cn/wiki/RCLRwAPCLi8wrkkHIbGcJrY8n7b)
+📝 I regularly write articles on [ZuoChaoRan's Blog](https://xunlianying.feishu.cn/wiki/RCLRwAPCLi8wrkkHIbGcJrY8n7b）
 
 💬 Ask me about JavaScript, Vue, Nodejs
 
