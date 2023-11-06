@@ -12,5 +12,4 @@ About Me
 💬 Ask me about JavaScript, Vue, Nodejs
 
 📫 How to reach me 15269876632@163.com
-
-// # [![ZuoChaoRan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcrchong&show_icons=true&theme=radical)]([link-url也就是点击图片跳转的链接，我设置的是我的个人博客](https://xunlianying.feishu.cn/wiki/RCLRwAPCLi8wrkkHIbGcJrY8n7b)https://xunlianying.feishu.cn/wiki/RCLRwAPCLi8wrkkHIbGcJrY8n7b)
+WX: Zcr19822199908
