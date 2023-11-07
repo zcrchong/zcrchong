@@ -29,7 +29,7 @@
 <!-- 背景图 -->
 <br />
 <br />
-<img align="right" alt="GIF" src="https://github.com/zcrchong/zcrchong/assets/102567605/420f961c-3d7c-448c-aace-59efbcb61a5c" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/zcrchong/zcrchong/assets/102567605/2f643557-e575-474c-889c-bf06ca763ab2" width="400"/>
 
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
