@@ -1,9 +1,9 @@
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
   <h1 height="200px" align="center">
-    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm MoYuanJun
+    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm ZuoChaoRan
   </h1>
-   <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
+   <p align="center">A often passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
 </p>
 <!-- 
   技术栈标签, 小标签来自: https://shields.io/
@@ -35,10 +35,10 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently working on [DXY](https://dxy.com/)~
-- 🏋 I'm passionate about fitness, and it pays off ~
+- 🔭 I’m currently looking for a job~
+- 🏀 I'm passionate about basketball, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles at [feishu](https://xunlianying.feishu.cn/wiki/RCLRwAPCLi8wrkkHIbGcJrY8n7b)
 - ⛺️ I have a private site: [zuochaoran’s Blog](https://xunlianying.feishu.cn/wiki/RCLRwAPCLi8wrkkHIbGcJrY8n7b), you're welcome to come! ~
 - 📨 My email address is `15269876632@163.com` Welcome to contact me 👏🏻 ~
-- 📨 My Wechat is `Zcr19822199908` Welcome to contact me 👏🏻 ~
+- 📪 My Wechat is `Zcr19822199908` Welcome to contact me 👏🏻 ~
